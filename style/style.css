@@ -1,0 +1,33 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0%;
+}
+header{
+    background-color: #E5E5E5;
+    margin: 0%;
+}
+img{
+    text-align: center;
+}
+h1,h3{
+    background-color: #C4C4C4;
+    color: #005677;
+    margin-top: 0%;
+    padding: 2% 1%;
+}
+footer{
+    background-color: #005677;
+    text-align: center;
+    color: white;
+}
+.personalData{
+    font-weight: bold;
+    font-style: italic;
+}
+.dates{
+    font-weight: bold;
+}
+i{
+    font-size:22px
+}
+
